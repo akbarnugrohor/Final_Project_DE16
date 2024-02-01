@@ -1,0 +1,2 @@
+docker volume create postgres_data
+docker volume create mysql_data
